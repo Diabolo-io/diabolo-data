@@ -1,10 +1,2046 @@
 {
-  "0x9BE948033E0430A0747BB38316f8d9173Ba93676": {
-    "amount": "100",
+  "0x003D684EffAC0de1FaeA31b36813B37440eB0f7f": {
+    "amount": "34,92",
     "symbol": "DCASH"
   },
-  "0xFF9738e578E13e6927e00691F60a062de49e89f4": {
-    "amount": "10056",
+  "0x00b3e1d771274ce4b591e5931ca562595b7a9d15": {
+    "amount": "5471,043692",
+    "symbol": "DCASH"
+  },
+  "0x0108abdab17c76db57442072506c68023927bd20": {
+    "amount": "16723,15846",
+    "symbol": "DCASH"
+  },
+  "0x0167767e7ffabd6e9fe1f958535bf296622d4b21": {
+    "amount": "7084,2",
+    "symbol": "DCASH"
+  },
+  "0x0210407c9617d008cd34d5ae53549ebc7cb0adce": {
+    "amount": "8194,827692",
+    "symbol": "DCASH"
+  },
+  "0x023e18708340a13bad031168e86cf3ed6d7b51d1": {
+    "amount": "856,433402",
+    "symbol": "DCASH"
+  },
+  "0x03cf4ed624ed3b6d3c8f1ee9838b99cdcee9d5c1": {
+    "amount": "4126,698257",
+    "symbol": "DCASH"
+  },
+  "0x03f1184682b3fe6523dd15dd58dc0ae3d11b1bc7": {
+    "amount": "4087,634615",
+    "symbol": "DCASH"
+  },
+  "0x053fd1fda46794159c969a75e2a0f81731da9002": {
+    "amount": "2284,676724",
+    "symbol": "DCASH"
+  },
+  "0x05936ac4b12175fd0e601637b5d04e4f7ca8986f": {
+    "amount": "6922,936752",
+    "symbol": "DCASH"
+  },
+  "0x05b0daf98bcb483f52d328ff0efa40a6def511b2": {
+    "amount": "12322,19576",
+    "symbol": "DCASH"
+  },
+  "0x05b3ef4a63a31391d683eb541ffd574d5d926609": {
+    "amount": "101,4207692",
+    "symbol": "DCASH"
+  },
+  "0x0638cddeffcffc470f96f00ff742f92bef7cc59a": {
+    "amount": "2171,729086",
+    "symbol": "DCASH"
+  },
+  "0x07058b58e91e3a11321a0196bf9458f94a7c084b": {
+    "amount": "4575,145878",
+    "symbol": "DCASH"
+  },
+  "0x08430906f19f4409e15be59b3a4cf3bffed8d609": {
+    "amount": "2162,94",
+    "symbol": "DCASH"
+  },
+  "0x08b3510977879d117cf5ac601f21c1f3295c65fa": {
+    "amount": "7332,228729",
+    "symbol": "DCASH"
+  },
+  "0x08d249e85f67ae7573d09223a80aaf5ccfee9007": {
+    "amount": "9884,327692",
+    "symbol": "DCASH"
+  },
+  "0x09d027cfd3992360885ab4fc46d274eae3cfd054": {
+    "amount": "15096,24898",
+    "symbol": "DCASH"
+  },
+  "0x0a06cd24be2823f20dde98e3c75ab61a594b773e": {
+    "amount": "8258,22034",
+    "symbol": "DCASH"
+  },
+  "0x0a26e23c6add13a3bdf7c2d626f760620f8e491f": {
+    "amount": "7631,088014",
+    "symbol": "DCASH"
+  },
+  "0x0a4815677bb775036fab8d2ca43357a8652f4ea7": {
+    "amount": "8004,75",
+    "symbol": "DCASH"
+  },
+  "0x0aeee23d16084d763e7a65577020c1f3d18804f2": {
+    "amount": "959,0482225",
+    "symbol": "DCASH"
+  },
+  "0x0b2c65c847d01d4bba6107125181ac5e910473f3": {
+    "amount": "14757,62413",
+    "symbol": "DCASH"
+  },
+  "0x0b3445de97ae9d09c62ec34d12f11970bbd66c53": {
+    "amount": "9510,88713",
+    "symbol": "DCASH"
+  },
+  "0x0b993d90f29dccc9daa954f89ff5d03ef991a1f0": {
+    "amount": "6768,684615",
+    "symbol": "DCASH"
+  },
+  "0x0b9dacce06a4e43559f040c7f70af262d140ca8d": {
+    "amount": "1534,856622",
+    "symbol": "DCASH"
+  },
+  "0x0c2bdac2e6b0d38df5ee9e0012e456d7dbece317": {
+    "amount": "7293,5547",
+    "symbol": "DCASH"
+  },
+  "0x0c4e440935e544bd3e2ba2b86bdd12271532af25": {
+    "amount": "18082,75932",
+    "symbol": "DCASH"
+  },
+  "0x0c82b6e05c56d57389012cb50833d8e7cd6c62f6": {
+    "amount": "7105,656348",
+    "symbol": "DCASH"
+  },
+  "0x0d7400daf74ce49c30020440035eec1512b42542": {
+    "amount": "1836,714434",
+    "symbol": "DCASH"
+  },
+  "0x0dc432edaa4f0f99c999fa5b14b08548b77a061f": {
+    "amount": "7741,44",
+    "symbol": "DCASH"
+  },
+  "0x0f7fb058adfbfeef8bb79ff54d0376ebc1e8464f": {
+    "amount": "230857,6",
+    "symbol": "DCASH"
+  },
+  "0x1045b091d8f08db263339ed4c3d4b6e0c2357f72": {
+    "amount": "5510,391085",
+    "symbol": "DCASH"
+  },
+  "0x10c995c325ca0ea5f73ad0552523fbea88a016c8": {
+    "amount": "665,28",
+    "symbol": "DCASH"
+  },
+  "0x1137e03605e8cb28555ce24c8c90df0573d17982": {
+    "amount": "9695,37677",
+    "symbol": "DCASH"
+  },
+  "0x1154850b15438378972cc88f20505faa7526aaae": {
+    "amount": "1712,709462",
+    "symbol": "DCASH"
+  },
+  "0x1223c8ca97e5ee040087f0462329912435c9ca7d": {
+    "amount": "1484,986947",
+    "symbol": "DCASH"
+  },
+  "0x1227fc7fc9fcde4765d64078630a8093f545b8c2": {
+    "amount": "2711,584889",
+    "symbol": "DCASH"
+  },
+  "0x13a541a5e9474ec9865f66271e44ad21838a75de": {
+    "amount": "115,168471",
+    "symbol": "DCASH"
+  },
+  "0x142492b3e1780b6eb329dae3bb65d399b905310d": {
+    "amount": "1225,409329",
+    "symbol": "DCASH"
+  },
+  "0x147d7d0fb90c77ef8362a7b524d7408b3cc632bc": {
+    "amount": "298,7322731",
+    "symbol": "DCASH"
+  },
+  "0x157b3250e5fb8b2899c7745869018340c1b8e2e8": {
+    "amount": "6810,168462",
+    "symbol": "DCASH"
+  },
+  "0x15999840613d7a7f0cf707c5d15a23e7c32495ab": {
+    "amount": "9479,756",
+    "symbol": "DCASH"
+  },
+  "0x15a609464a35a9a1297c3ab2b21d3f1d4fa37013": {
+    "amount": "9297,752308",
+    "symbol": "DCASH"
+  },
+  "0x15ae010dffec19729a410b82d51337b385a96b95": {
+    "amount": "1139,163077",
+    "symbol": "DCASH"
+  },
+  "0x168c46b148d781e31f7eb249243d274730d251c5": {
+    "amount": "949,6615385",
+    "symbol": "DCASH"
+  },
+  "0x16f8959ca63cf1188e38bd71e947a49e7b25976f": {
+    "amount": "27223,37812",
+    "symbol": "DCASH"
+  },
+  "0x171bf34cdf79f215e2e2db977677a2e9bd73deda": {
+    "amount": "1947,461731",
+    "symbol": "DCASH"
+  },
+  "0x171c1cf42c8e11589381f5e4846ffe4e2c7f6d95": {
+    "amount": "1603,423077",
+    "symbol": "DCASH"
+  },
+  "0x174c823817ddcbe89631dfde5e6380dbec45a57b": {
+    "amount": "851,7262",
+    "symbol": "DCASH"
+  },
+  "0x179431d2b2f53864f923bf381cebc46adab813ac": {
+    "amount": "7511,07",
+    "symbol": "DCASH"
+  },
+  "0x17b6095e6b5bfcb76d8844fb857321dc3c9caf4c": {
+    "amount": "1383,523105",
+    "symbol": "DCASH"
+  },
+  "0x17c9d257e1ff6bd03a7733a5f34311dd378c90b5": {
+    "amount": "186,1476923",
+    "symbol": "DCASH"
+  },
+  "0x17d43324f8364b06e3d9e535e106f3a3ec6dabc7": {
+    "amount": "12979,50769",
+    "symbol": "DCASH"
+  },
+  "0x181f12ebff7dd1526965cdf61057fdb24f138dff": {
+    "amount": 8998,
+    "symbol": "DCASH"
+  },
+  "0x18829e507e072af3697ed1a33a6d8d53a86f11a9": {
+    "amount": "16622,4",
+    "symbol": "DCASH"
+  },
+  "0x19783127b233ae41d6a044f8124a20d75fb0a604": {
+    "amount": "2677,998746",
+    "symbol": "DCASH"
+  },
+  "0x19b8379c7fbedf2c17ce6268b73f0dcec052ff4e": {
+    "amount": "1859,648021",
+    "symbol": "DCASH"
+  },
+  "0x19cde19c8b1195379b654ef2d28adc880d6a9899": {
+    "amount": "355,6696696",
+    "symbol": "DCASH"
+  },
+  "0x1a30b2f0560fbb56578276348a07e81378d4b833": {
+    "amount": "39,25021054",
+    "symbol": "DCASH"
+  },
+  "0x1b764bd85eebbbd36239ac59f860181ebc211c4b": {
+    "amount": "494,2479069",
+    "symbol": "DCASH"
+  },
+  "0x1be52feac0cac0d3fa91a2b1c9577de65419ed2d": {
+    "amount": "7504,511",
+    "symbol": "DCASH"
+  },
+  "0x1c6510d6e4c93034799cc70db1263b1630b5f4a5": {
+    "amount": "8958,357692",
+    "symbol": "DCASH"
+  },
+  "0x1e5a0f4cbd2b067f8b24ccc5d3b26e9ee9b61cbc": {
+    "amount": "34885,54641",
+    "symbol": "DCASH"
+  },
+  "0x1eda822e58069152e0340ce697abcda86a29c324": {
+    "amount": "1546,643037",
+    "symbol": "DCASH"
+  },
+  "0x1f41a778350f819a686625b506545242d1fcf418": {
+    "amount": "7430,64",
+    "symbol": "DCASH"
+  },
+  "0x1fc24fd2f35777432f86350ea65dc3360a9b9017": {
+    "amount": "4066,172417",
+    "symbol": "DCASH"
+  },
+  "0x206595fe52f5eddda747c2da4016e8d7d978e042": {
+    "amount": "10142,07692",
+    "symbol": "DCASH"
+  },
+  "0x20a8174d1e7741518ca32c65cbb8dd1269bfefb7": {
+    "amount": "3513,537692",
+    "symbol": "DCASH"
+  },
+  "0x20aae5ef73a9b9dc891af86423c78a2d34691884": {
+    "amount": "4181,286154",
+    "symbol": "DCASH"
+  },
+  "0x2195539d314287432c656c2e2fee9066d09e3ad3": {
+    "amount": "10123,5",
+    "symbol": "DCASH"
+  },
+  "0x21cf6063571f71b4a163f1d3770ab6d94d202352": {
+    "amount": "24035,29154",
+    "symbol": "DCASH"
+  },
+  "0x233db729fdaf09b2361edf817a4426d4cb83f98b": {
+    "amount": "2013,3",
+    "symbol": "DCASH"
+  },
+  "0x2409b60d4f257fd7bc403dd0057182c70f5f1ca5": {
+    "amount": "7197,2",
+    "symbol": "DCASH"
+  },
+  "0x24a7656c463b5312d80e887ebe06bece658878d4": {
+    "amount": "664,5153846",
+    "symbol": "DCASH"
+  },
+  "0x24bba798d73d258f0e14776252bb69c7ae028a83": {
+    "amount": "7123,272",
+    "symbol": "DCASH"
+  },
+  "0x267d86870c0e00d07b9f5763b391a4c437270e06": {
+    "amount": "1535,510154",
+    "symbol": "DCASH"
+  },
+  "0x27ae3ac877d061e1c56bfaa680b83cbe477a2d20": {
+    "amount": "844,6576923",
+    "symbol": "DCASH"
+  },
+  "0x284a077ee1b8c2607e0a2bd7ff7c094641d424c7": {
+    "amount": "3874,938462",
+    "symbol": "DCASH"
+  },
+  "0x28739989b474e021ed72f0cbc36543cbad8db335": {
+    "amount": "7515,913455",
+    "symbol": "DCASH"
+  },
+  "0x28a4470f1e684dc44207792a554dcd1af2daa80d": {
+    "amount": "7767,319669",
+    "symbol": "DCASH"
+  },
+  "0x28e9b9fcc36ee4557f48a9511763430652d57778": {
+    "amount": "1641,304146",
+    "symbol": "DCASH"
+  },
+  "0x2963c1637a80d92e31be8a282f03e28f12a07b3e": {
+    "amount": "1430,240431",
+    "symbol": "DCASH"
+  },
+  "0x29b3c8ecb9e8ee3acbc9cc8d101a978fc713f482": {
+    "amount": "20950,8",
+    "symbol": "DCASH"
+  },
+  "0x2a090e37F89328c66FBE44870983cF02d3f1FF01": {
+    "amount": "668,52",
+    "symbol": "DCASH"
+  },
+  "0x2a627cc0dc656b924616b6cd6ddcf86ea9d31fc9": {
+    "amount": "4975,341317",
+    "symbol": "DCASH"
+  },
+  "0x2a7130bcbfa8eeaf7d581751d6bab0fab81f3324": {
+    "amount": "35910,71273",
+    "symbol": "DCASH"
+  },
+  "0x2b3fa6bf6871ec6ba64759484843330037f54bf9": {
+    "amount": "7269,172",
+    "symbol": "DCASH"
+  },
+  "0x2b63f87b6bbf49a59be1a6de2e3423f463df24de": {
+    "amount": "938,4794676",
+    "symbol": "DCASH"
+  },
+  "0x2d5edf21e00a0c3441ffb145a67481b78a28e4a4": {
+    "amount": "7355,897418",
+    "symbol": "DCASH"
+  },
+  "0x2e5353fdafdbb33d4e3f589281cd762517ea9baf": {
+    "amount": "3785,457692",
+    "symbol": "DCASH"
+  },
+  "0x2f7efad314d82061fcefdc561d0b58627f2d9fba": {
+    "amount": "6926,4",
+    "symbol": "DCASH"
+  },
+  "0x2ffc3683cda0f8f7477b14fb8fd2e2141c55ae07": {
+    "amount": "22783,194",
+    "symbol": "DCASH"
+  },
+  "0x309b7b6eb1e3a5c492733811b50ba64fa13821e1": {
+    "amount": "7039,211987",
+    "symbol": "DCASH"
+  },
+  "0x30bf0a9ce2dc2c3f7024513af2a4e5e398ca8f9b": {
+    "amount": "1329,410779",
+    "symbol": "DCASH"
+  },
+  "0x313466c1fbe43c4ebe7c87bc7939c8ea42fb7258": {
+    "amount": "181654,2288",
+    "symbol": "DCASH"
+  },
+  "0x31a2b6e383debb4f4692927afcbe035123a97489": {
+    "amount": "9914,613438",
+    "symbol": "DCASH"
+  },
+  "0x321ecc51ced7cb4fef7a859bb397abd233e6846e": {
+    "amount": "17591,42888",
+    "symbol": "DCASH"
+  },
+  "0x324fe65baf7e080a4360b18c3ae8d97fb20718dc": {
+    "amount": "7061,8",
+    "symbol": "DCASH"
+  },
+  "0x32925450515a8dae270d39b7e5c44e759f804f36": {
+    "amount": "6863,40035",
+    "symbol": "DCASH"
+  },
+  "0x32b7d2f7f4ecfdf3e9d9be72f6a95b57172bf222": {
+    "amount": "1818,734615",
+    "symbol": "DCASH"
+  },
+  "0x32f4fb9bffa01700b9ac8c54bfed1b5f7326d355": {
+    "amount": "8425,533389",
+    "symbol": "DCASH"
+  },
+  "0x3336ad8dd71097e81428cde098cb8ad7021a0cd7": {
+    "amount": "3767,378846",
+    "symbol": "DCASH"
+  },
+  "0x335845adc48e3f669e4aa11fc06d6b9bb6ed9d5e": {
+    "amount": "30,49923077",
+    "symbol": "DCASH"
+  },
+  "0x33d69e66c41413d1e45a7c64abeaec83999b2434": {
+    "amount": "6704,8",
+    "symbol": "DCASH"
+  },
+  "0x33e306a2febd49e9b61b146ca3fad0d55c939d4a": {
+    "amount": "797,0607669",
+    "symbol": "DCASH"
+  },
+  "0x345438b6ec07e3611ebca1acd0118a2cbae134ec": {
+    "amount": "16531,8",
+    "symbol": "DCASH"
+  },
+  "0x3467d7bbd069b7ea619d2f1cfe786299e3c74ca7": {
+    "amount": "2225,570829",
+    "symbol": "DCASH"
+  },
+  "0x35cc9f21a2413c53c35e75a6a5e4d85b02122b22": {
+    "amount": "165,85724",
+    "symbol": "DCASH"
+  },
+  "0x363ccf30d80288e9461a02b60d81da9aaa7f5174": {
+    "amount": "7714,410839",
+    "symbol": "DCASH"
+  },
+  "0x3670543b25c3cc5f8c317136ca8a89cb07db8110": {
+    "amount": "11392,0464",
+    "symbol": "DCASH"
+  },
+  "0x36be89bdf1f75d748909822de1f5aef4d2417ed9": {
+    "amount": "11231,66465",
+    "symbol": "DCASH"
+  },
+  "0x37b1884205cc47c2bf5cf5a0248946c4c0c85724": {
+    "amount": 5620,
+    "symbol": "DCASH"
+  },
+  "0x37eb7b976c4abebe42313b5a3b3583b2fcee9e9d": {
+    "amount": "782,5717394",
+    "symbol": "DCASH"
+  },
+  "0x37f97429eac82332b71f3d98b64d895dc8c75f70": {
+    "amount": "14888,6",
+    "symbol": "DCASH"
+  },
+  "0x3916e9fb13873aa7ce758e1454b7486b806f7dee": {
+    "amount": "12979,29916",
+    "symbol": "DCASH"
+  },
+  "0x39A7ad855e335739e9A2a05DA9BdF1C57711c89D": {
+    "amount": "3624,84",
+    "symbol": "DCASH"
+  },
+  "0x3a22fa5d797fb32564b1b6a8edd1eaa60801d610": {
+    "amount": "1060,759615",
+    "symbol": "DCASH"
+  },
+  "0x3A4A6881eFebfd8152Ff4d1a3427830eAA4f50BE": {
+    "amount": "640,62",
+    "symbol": "DCASH"
+  },
+  "0x3a662f787168e8d856e801c75449876f4da9208a": {
+    "amount": "17122,338",
+    "symbol": "DCASH"
+  },
+  "0x3AFb3d6A37A899fd10eC239a3812Dbb89d70bd40": {
+    "amount": "10945,94",
+    "symbol": "DCASH"
+  },
+  "0x3b9781012a6cba5f2f4bacfb41a0ca570ab0c803": {
+    "amount": "12146,97",
+    "symbol": "DCASH"
+  },
+  "0x3baf905b6a18acc79c40d2cddc192764b16a83c8": {
+    "amount": "2078,553846",
+    "symbol": "DCASH"
+  },
+  "0x3c2573b002cf51e64ab6d051814648eb3a305363": {
+    "amount": "131856,464",
+    "symbol": "DCASH"
+  },
+  "0x3c6e047df91159bf79ecf67650b597ea64f4da8b": {
+    "amount": "7374,15",
+    "symbol": "DCASH"
+  },
+  "0x3cd96ca14dfce02b3b14643e8ecc0e2ff8c31fd9": {
+    "amount": "405,1730769",
+    "symbol": "DCASH"
+  },
+  "0x3d21fd14f417524f7757ba93d9ad94e737379582": {
+    "amount": "8537,505871",
+    "symbol": "DCASH"
+  },
+  "0x3e718f6d38e4500b8a75383c375a5f0cbce99c05": {
+    "amount": "723,2233064",
+    "symbol": "DCASH"
+  },
+  "0x3f0875685e130e6251bbe9d678bc00ed359cccff": {
+    "amount": "10384,59",
+    "symbol": "DCASH"
+  },
+  "0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be": {
+    "amount": "9617,863771",
+    "symbol": "DCASH"
+  },
+  "0x4007488a45214bfb22e0f48dcc3dbbc41408698b": {
+    "amount": "690,1470263",
+    "symbol": "DCASH"
+  },
+  "0x41d0fb81f19f67b15cf71f4a3997f08321a614f6": {
+    "amount": "11798,64",
+    "symbol": "DCASH"
+  },
+  "0x4231ec3a196da3fb2a4e8bf2bf1eaf856e89e5ba": {
+    "amount": "15399,39692",
+    "symbol": "DCASH"
+  },
+  "0x42955b23dee4811fba39258b7be57f6b66efd654": {
+    "amount": "746,0728018",
+    "symbol": "DCASH"
+  },
+  "0x436cfc5f7c03fbf559115332ab8f26b67e34801b": {
+    "amount": "2702,411538",
+    "symbol": "DCASH"
+  },
+  "0x43f960ffa5c437252df67cbe92d4680759cd2cf2": {
+    "amount": "418,7494917",
+    "symbol": "DCASH"
+  },
+  "0x4429ef988849db2618614349de79756e8b46deb7": {
+    "amount": "43867,93846",
+    "symbol": "DCASH"
+  },
+  "0x446800d5d3651c000479b3ed22287c50a7ef8243": {
+    "amount": "9028,163077",
+    "symbol": "DCASH"
+  },
+  "0x45d00b54760de3990ec9bd079498019936ceff28": {
+    "amount": "791,1276923",
+    "symbol": "DCASH"
+  },
+  "0x46340b20830761efd32832a74d7169b29feb9758": {
+    "amount": "19849,74578",
+    "symbol": "DCASH"
+  },
+  "0x46426750dc069953b3d78979fd5743c28d8f7596": {
+    "amount": "7434,21",
+    "symbol": "DCASH"
+  },
+  "0x467905e469f61850eb352b6f95c340471e4ffb99": {
+    "amount": "5069,789138",
+    "symbol": "DCASH"
+  },
+  "0x46AF1A845b2dBD2A7BC627F41B5e72488B8cA02d": {
+    "amount": "188453,65",
+    "symbol": "DCASH"
+  },
+  "0x46b243248e623165497aad9abdd73651824897bc": {
+    "amount": "19131,63935",
+    "symbol": "DCASH"
+  },
+  "0x46d8829152e960951962cc336418e2e46111b533": {
+    "amount": "3327,853692",
+    "symbol": "DCASH"
+  },
+  "0x46ddae614a1786e8f4dc6ff724aed6cd95fbddba": {
+    "amount": "13194,9",
+    "symbol": "DCASH"
+  },
+  "0x4718ac972b5c1e816f5a27cbd33e9232cdfc91b5": {
+    "amount": "13137,90039",
+    "symbol": "DCASH"
+  },
+  "0x4736affdbfe78c647e23bdb499d7700f89c10351": {
+    "amount": "11118,13494",
+    "symbol": "DCASH"
+  },
+  "0x4809f76b3e9a337c83bdb92b219896ef49a17d2f": {
+    "amount": "8473,358794",
+    "symbol": "DCASH"
+  },
+  "0x4857d35dad758dc1dec9d00ea222c5bcad455654": {
+    "amount": "2095,949154",
+    "symbol": "DCASH"
+  },
+  "0x48bf9e82b27d58a886e996620b24125cf6a085d0": {
+    "amount": "3131,341369",
+    "symbol": "DCASH"
+  },
+  "0x48e9760e7f684e0c70b2b880181c124b9cd4864f": {
+    "amount": "9674,666",
+    "symbol": "DCASH"
+  },
+  "0x4920ba4a6f0ef28239ce07f0c515c666ca8faa8f": {
+    "amount": "3257,584615",
+    "symbol": "DCASH"
+  },
+  "0x49328d89a26fcb1e6b75ffcfacb9f6cd4fbda15c": {
+    "amount": "24242,91887",
+    "symbol": "DCASH"
+  },
+  "0x498d20e7499d12533f3f041f1a3f65329231a9fa": {
+    "amount": "7414,923692",
+    "symbol": "DCASH"
+  },
+  "0x4a4b86dbe6af726cc0330b418a40875334eb8d39": {
+    "amount": "861,5495384",
+    "symbol": "DCASH"
+  },
+  "0x4acf23eecc316eae103f8cff98a76b2b4947c5a8": {
+    "amount": "2626,246827",
+    "symbol": "DCASH"
+  },
+  "0x4b2fced4bde85f58817c466d94067b276701761d": {
+    "amount": "134419,0559",
+    "symbol": "DCASH"
+  },
+  "0x4c01d1485da59daba282fb1807ac08f0b4c56085": {
+    "amount": "24100,18462",
+    "symbol": "DCASH"
+  },
+  "0x4ce824e80979d78d3f6b37a3337c674673c9f5be": {
+    "amount": "7053,8",
+    "symbol": "DCASH"
+  },
+  "0x4d0a972253f949b70ca03b0e90f5ddc3f17de9c3": {
+    "amount": "18591,84895",
+    "symbol": "DCASH"
+  },
+  "0x4d3c45b76be915c8663272f501ca6d09605310f4": {
+    "amount": "1178,20927",
+    "symbol": "DCASH"
+  },
+  "0x4d4133241d545fe0be3bd9f2f200f3a55c6c6b11": {
+    "amount": "7216,017871",
+    "symbol": "DCASH"
+  },
+  "0x4d4e42f76e6939f302569ec41ec6ccbf4a1fc8f3": {
+    "amount": "8987,224615",
+    "symbol": "DCASH"
+  },
+  "0x4d773d656e367e8bbdbba866031581d5f8fdf5a2": {
+    "amount": "8557,125538",
+    "symbol": "DCASH"
+  },
+  "0x4d977cbf778d6c9576ce8859a3472fd0ec2f62ac": {
+    "amount": "767,2707692",
+    "symbol": "DCASH"
+  },
+  "0x4e72eff5138c8cb61629e597c6836ece69d60b2a": {
+    "amount": "1052,976808",
+    "symbol": "DCASH"
+  },
+  "0x4eb782af98baf9076056a70d2125b108bdb978ae": {
+    "amount": "7197,2",
+    "symbol": "DCASH"
+  },
+  "0x4fda50f5859e3cabd64fb47144f5437f25d9e0da": {
+    "amount": "7727,731596",
+    "symbol": "DCASH"
+  },
+  "0x50dd9ba784f9e3658f7bade66c2a9e19ad3dde36": {
+    "amount": "10795,8",
+    "symbol": "DCASH"
+  },
+  "0x516e65d83c7bb9511b201f7d2e01d8c4c33d9fe6": {
+    "amount": "19144,35",
+    "symbol": "DCASH"
+  },
+  "0x51c6253e6729c1e3bcaf869eafe6a497d05ebeeb": {
+    "amount": "7693,2",
+    "symbol": "DCASH"
+  },
+  "0x526195b279c99e63fc69e0295ab8bb1b3de07d84": {
+    "amount": "6403,8",
+    "symbol": "DCASH"
+  },
+  "0x53a593765aeb1d261ce1f20062e80af5fb788f79": {
+    "amount": "1933,335385",
+    "symbol": "DCASH"
+  },
+  "0x53d57d023213ea14ef6bd2553097f469e955f54a": {
+    "amount": "708,0369231",
+    "symbol": "DCASH"
+  },
+  "0x550a7ad0d2caf66d92e1a740b2d07d31dded51b3": {
+    "amount": "7061,8",
+    "symbol": "DCASH"
+  },
+  "0x564286362092d8e7936f0549571a803b203aaced": {
+    "amount": "16044,821",
+    "symbol": "DCASH"
+  },
+  "0x56a0ad4b45c874bdde9124c0c6238ba920979640": {
+    "amount": "23206,78667",
+    "symbol": "DCASH"
+  },
+  "0x56ee5b29120daaaa28d42ce0bae0e44998ebf3c4": {
+    "amount": "58993,34522",
+    "symbol": "DCASH"
+  },
+  "0x56f0cf25e5bc3faa350f37a2142387130cda7bd3": {
+    "amount": "12803,45748",
+    "symbol": "DCASH"
+  },
+  "0x571ad36ded93ec62df5deba152352de69c720056": {
+    "amount": 4544,
+    "symbol": "DCASH"
+  },
+  "0x5827e91d1ea899e50d3b0a6fca0e0f06c39c1969": {
+    "amount": "1033,012829",
+    "symbol": "DCASH"
+  },
+  "0x58416950bda28d639deb0c378ab80b2d364b19b9": {
+    "amount": "913,637277",
+    "symbol": "DCASH"
+  },
+  "0x596dd4aa56037a5c6347607e6afc050e1e85d685": {
+    "amount": "10229,43267",
+    "symbol": "DCASH"
+  },
+  "0x598cc605451bcc10620880acba4480118f66db23": {
+    "amount": "4226,748673",
+    "symbol": "DCASH"
+  },
+  "0x59dadbd62e490ea28ad87360f88fbbc77f0c7d2a": {
+    "amount": "34285,68",
+    "symbol": "DCASH"
+  },
+  "0x5a027861bbd334310ddc871a4fa87f4f6e580fc6": {
+    "amount": "1766,541507",
+    "symbol": "DCASH"
+  },
+  "0x5a074b48765d77b02bcbf63b91d8368015790bf3": {
+    "amount": "891,7570537",
+    "symbol": "DCASH"
+  },
+  "0x5a84cec2720a40b8347943693195f033381bdc79": {
+    "amount": "206,7639067",
+    "symbol": "DCASH"
+  },
+  "0x5b22a0ebac84449cb820b96c2e7908fa90d72a3d": {
+    "amount": "7645,703424",
+    "symbol": "DCASH"
+  },
+  "0x5c4b5eeb5083dcdf0acd0b8a4ebf087241e9d4f6": {
+    "amount": "473,2853687",
+    "symbol": "DCASH"
+  },
+  "0x5ce97a1f5d4bfed323a400721711fc0527d9ebbb": {
+    "amount": "58985,10928",
+    "symbol": "DCASH"
+  },
+  "0x5e34a7272a0386f130527b9a7f337e562b5f2b7a": {
+    "amount": "4726,36875",
+    "symbol": "DCASH"
+  },
+  "0x5ee9f09a98f159da028554127c990fa5230fc281": {
+    "amount": "15225,07233",
+    "symbol": "DCASH"
+  },
+  "0x5efc3d09202ccbf6bd033fb62c5ac9afcc3a9f4c": {
+    "amount": "11443,9074",
+    "symbol": "DCASH"
+  },
+  "0x5f5f019bf352682e60656500edebbd0d5ae73996": {
+    "amount": "399,2375",
+    "symbol": "DCASH"
+  },
+  "0x5f8c61ddf6a4d971866c5923409293fc36a6041a": {
+    "amount": "7040,4",
+    "symbol": "DCASH"
+  },
+  "0x5f8e6e0b940da6b5f8c01fe1a427b92be68cb63d": {
+    "amount": "11550,72",
+    "symbol": "DCASH"
+  },
+  "0x6081e94282ac70a19b35fdccee365ee83aa8d4e1": {
+    "amount": "1635,053846",
+    "symbol": "DCASH"
+  },
+  "0x609536fdce366f9e0dac11cf60266d5e545e6943": {
+    "amount": "38942,03077",
+    "symbol": "DCASH"
+  },
+  "0x622a2c792a3796f9f8091c0251371534cf296c82": {
+    "amount": "10030,49436",
+    "symbol": "DCASH"
+  },
+  "0x623d9a68673f5c7a0e53ced786790b86b34ad4fd": {
+    "amount": "9301,729836",
+    "symbol": "DCASH"
+  },
+  "0x624510af7add1f7432ccd9b66dc4b9490bddd574": {
+    "amount": "789,7428768",
+    "symbol": "DCASH"
+  },
+  "0x62ef905f4d5947cdb0a35b0ffab29e37478d3f80": {
+    "amount": "866,9131134",
+    "symbol": "DCASH"
+  },
+  "0x63228d18284e06df919ced6012cf111bdc633dc9": {
+    "amount": "6916,6",
+    "symbol": "DCASH"
+  },
+  "0x633bedb5d58494218179b1413ff700d9633551cb": {
+    "amount": "4189,444133",
+    "symbol": "DCASH"
+  },
+  "0x6349C65Fc0d31DAf1B4AAADc7Ec277D09BC303Eb": {
+    "amount": 1000,
+    "symbol": "DCASH"
+  },
+  "0x64722c6d996eaa52ac43a4e1cafb822060db551c": {
+    "amount": "4444,748362",
+    "symbol": "DCASH"
+  },
+  "0x654314df713664dfa98cbc97d933996b6ff6ae03": {
+    "amount": "9761,367499",
+    "symbol": "DCASH"
+  },
+  "0x6550e8d294802c55c7bbe8d8f1d5774d1689abe7": {
+    "amount": "4142,539385",
+    "symbol": "DCASH"
+  },
+  "0x65d426ef97957fa7a8540fa962e5b731d91f08f8": {
+    "amount": "761,1929765",
+    "symbol": "DCASH"
+  },
+  "0x65da200efcbb16614ad672c5df9122069181bab6": {
+    "amount": "1538,480769",
+    "symbol": "DCASH"
+  },
+  "0x65f80893c4f177882281f654c386e058f8e10df4": {
+    "amount": "17700,92308",
+    "symbol": "DCASH"
+  },
+  "0x66b17a02da5349e53439610d6cec13c9048198cb": {
+    "amount": "2792,215385",
+    "symbol": "DCASH"
+  },
+  "0x66ffc08e6a15fd1fdb75f568a0de3aff7b407136": {
+    "amount": "3574,60426",
+    "symbol": "DCASH"
+  },
+  "0x67934b96ad104122f25f04eb058c5f49fb1a7a31": {
+    "amount": "1929,392308",
+    "symbol": "DCASH"
+  },
+  "0x683e84b4f8e2b497db08c6f960745f94b1b92a0a": {
+    "amount": "5891,046154",
+    "symbol": "DCASH"
+  },
+  "0x68a0bf26ede9936e96d425339b103dca8f96aa28": {
+    "amount": "8842,5",
+    "symbol": "DCASH"
+  },
+  "0x68cc67e6899be5a34002091449cb8860b132cca3": {
+    "amount": "15576,81231",
+    "symbol": "DCASH"
+  },
+  "0x68fae86ce7e9c38c24484bd6584892295e153228": {
+    "amount": "10615,2",
+    "symbol": "DCASH"
+  },
+  "0x6999c70538608dc634d06aeb7575b862943f1d7e": {
+    "amount": "8928,476923",
+    "symbol": "DCASH"
+  },
+  "0x69e2df10bc35935426b9ea7bde3f33605fc76033": {
+    "amount": "48724,60462",
+    "symbol": "DCASH"
+  },
+  "0x69e650e1caee75318c8de3e50822bf97d75770d3": {
+    "amount": "7342,368",
+    "symbol": "DCASH"
+  },
+  "0x6a71e3aefdf67ab688b646a02e88adbf77474b0d": {
+    "amount": "2277,884308",
+    "symbol": "DCASH"
+  },
+  "0x6a818a2b38574b448fa55e19d4aeb17ab915fda0": {
+    "amount": "1837,148257",
+    "symbol": "DCASH"
+  },
+  "0x6Ac2a81507BFd61302db734b9616A4A6b9e27437": {
+    "amount": "699,04",
+    "symbol": "DCASH"
+  },
+  "0x6acb432483f8175e21f72a0a2b3372dae0cde190": {
+    "amount": "9056,871548",
+    "symbol": "DCASH"
+  },
+  "0x6be65b398190b42785e4f1fe955d398d0e220c26": {
+    "amount": "7506,082506",
+    "symbol": "DCASH"
+  },
+  "0x6c0246f87c2126d1bfe92cb5aaa3252aa56d0315": {
+    "amount": "5427,466682",
+    "symbol": "DCASH"
+  },
+  "0x6c19f33c1f3a62a251232a326e2cf02aa70ff1be": {
+    "amount": "4274,961538",
+    "symbol": "DCASH"
+  },
+  "0x6c314d7ce6df14e1e1eed41f39021d3bbc94131e": {
+    "amount": "4527,62285",
+    "symbol": "DCASH"
+  },
+  "0x6dc012b4a549b0fb3a2034a69d6bdfab5043cd5b": {
+    "amount": "317,443553",
+    "symbol": "DCASH"
+  },
+  "0x6eeb5ed60556c340e22d660563e0cc8cdae1c499": {
+    "amount": "1807,146322",
+    "symbol": "DCASH"
+  },
+  "0x6fad8fac3362c87b262813aabee79ad32632cb16": {
+    "amount": "8703,053402",
+    "symbol": "DCASH"
+  },
+  "0x70b6417b1c62f0feff57d404e2c65e0aab98d7d7": {
+    "amount": "4265,922462",
+    "symbol": "DCASH"
+  },
+  "0x713c1cf9891eaf81dc17ccb648523fa9ceb60971": {
+    "amount": "9167,773846",
+    "symbol": "DCASH"
+  },
+  "0x71b5bf7169fc8c4fdc3b1b11056a5638d6718849": {
+    "amount": "12290,76272",
+    "symbol": "DCASH"
+  },
+  "0x7274fa07ef0ed952997e67fca59d95f681cf6e41": {
+    "amount": "22332,53077",
+    "symbol": "DCASH"
+  },
+  "0x72815285fd699842e8cbc2ead892286656420304": {
+    "amount": "113566,9412",
+    "symbol": "DCASH"
+  },
+  "0x72a8d9f7acbdc0339425511b822edcee6d194e58": {
+    "amount": "919,2435713",
+    "symbol": "DCASH"
+  },
+  "0x73b3e8bfbb008546db49c5ae5af2bfcb058a9a28": {
+    "amount": "4653,692308",
+    "symbol": "DCASH"
+  },
+  "0x73b6515f75c17c8be26eb3c1147f4e1131234ef1": {
+    "amount": "2110,255545",
+    "symbol": "DCASH"
+  },
+  "0x741be10ce72d0beb58168940102d8b0f9ed1a5b2": {
+    "amount": "903,4061538",
+    "symbol": "DCASH"
+  },
+  "0x75569e5a7965f109c8480af4266340bf81dd8b6e": {
+    "amount": "33156,79945",
+    "symbol": "DCASH"
+  },
+  "0x758e6232d09b6fc4294993c043af29444c82acf6": {
+    "amount": "3046,865417",
+    "symbol": "DCASH"
+  },
+  "0x7717931fcaedb526f6d772314e5c88004ad39def": {
+    "amount": "380,6003543",
+    "symbol": "DCASH"
+  },
+  "0x771e46f7b1a8e4211fb123eea17c6a9efee39089": {
+    "amount": "1058,349844",
+    "symbol": "DCASH"
+  },
+  "0x778de709c45e53228e7eaab69fae04c4536fc5f5": {
+    "amount": "7618,17174",
+    "symbol": "DCASH"
+  },
+  "0x784589db4140cd1ed2ca76ab3e7c25703da94cc1": {
+    "amount": "498,5012736",
+    "symbol": "DCASH"
+  },
+  "0x78f29e170dedba02a33a38d284a266e988e0c4b7": {
+    "amount": "101199,7923",
+    "symbol": "DCASH"
+  },
+  "0x79a5dc80f3e4ec90a78e362a13aff0876d3b027a": {
+    "amount": "1703,533292",
+    "symbol": "DCASH"
+  },
+  "0x79b5a01e8f73116e95b37e0f85f6b4b1aa4c7d8c": {
+    "amount": "8983,047043",
+    "symbol": "DCASH"
+  },
+  "0x7a61bb9148e18863d50a2392283cfc8571791c60": {
+    "amount": "797,0560769",
+    "symbol": "DCASH"
+  },
+  "0x7b46b97019b4f2d3eb53304bcc3ecba99b7b82af": {
+    "amount": "3632,978462",
+    "symbol": "DCASH"
+  },
+  "0x7b592a7459dc44522bdf99d805151ffcc8ebe653": {
+    "amount": "741,2233146",
+    "symbol": "DCASH"
+  },
+  "0x7bf6b425026a307b46c3cd47ffcd686650c0f48f": {
+    "amount": "7389,861969",
+    "symbol": "DCASH"
+  },
+  "0x7c071e9e288f6469b45cd3142aca75570f9fbf97": {
+    "amount": "7319,815385",
+    "symbol": "DCASH"
+  },
+  "0x7c139cc6c6726e04fe756bfc39fa543590d7e403": {
+    "amount": "7557,06",
+    "symbol": "DCASH"
+  },
+  "0x7e12418d351b36eee56ef34b00609146f550a09c": {
+    "amount": "14715,48462",
+    "symbol": "DCASH"
+  },
+  "0x7ea19625728bea7c78f1a756bf98988e1600df7e": {
+    "amount": "1833,261538",
+    "symbol": "DCASH"
+  },
+  "0x7eebd56b076ee7f8fe0da62527f09c414c95bf12": {
+    "amount": "1770,846276",
+    "symbol": "DCASH"
+  },
+  "0x7efb47ca6716fbb7a4404e2687135ece1a91e8f8": {
+    "amount": "974,9615385",
+    "symbol": "DCASH"
+  },
+  "0x7f709563a33b7ca07e04ef20766b878750ea77a7": {
+    "amount": "20527,4",
+    "symbol": "DCASH"
+  },
+  "0x7fa7e176c7ca55839265c2c53927a9f9493040ec": {
+    "amount": "8174,44",
+    "symbol": "DCASH"
+  },
+  "0x801d037a039a38e24e04b2e94a3741eb9a39a9dc": {
+    "amount": 0,
+    "symbol": "DCASH"
+  },
+  "0x810889940029bd56f7ce7137005aadb8896c21d1": {
+    "amount": "14704,98293",
+    "symbol": "DCASH"
+  },
+  "0x8199b0951053d32ac8d76a2d4dfb823259066169": {
+    "amount": "987,9839528",
+    "symbol": "DCASH"
+  },
+  "0x81ef799270a6add2e9f606cdf62371022d288970": {
+    "amount": "7786,692308",
+    "symbol": "DCASH"
+  },
+  "0x81f296a55f47cbb0c04da7bdab83533562ce7e3f": {
+    "amount": "1223,586466",
+    "symbol": "DCASH"
+  },
+  "0x82c98b025134e7ad74ece0242c3254fbcb14b5fe": {
+    "amount": "7079,4545",
+    "symbol": "DCASH"
+  },
+  "0x83cb39ad1c4e9870f48991a5df97511a1fe45fbb": {
+    "amount": "10890,55909",
+    "symbol": "DCASH"
+  },
+  "0x83d016c12cc680b5ba6e3cf70f03f2956ac2351a": {
+    "amount": "7873,952795",
+    "symbol": "DCASH"
+  },
+  "0x83d6773921f25b1d5ebd1aaa06369764bc7f991e": {
+    "amount": "391,6135458",
+    "symbol": "DCASH"
+  },
+  "0x8404d8494b7e76250b5e92017f963942d3201692": {
+    "amount": "9910,520113",
+    "symbol": "DCASH"
+  },
+  "0x8565a7edbbc10fb0e19e728ba7154a6c8f98a642": {
+    "amount": "8777,384425",
+    "symbol": "DCASH"
+  },
+  "0x85ac9814ddd86f6bcf09f2cf67d883613dd278b2": {
+    "amount": "45596,1",
+    "symbol": "DCASH"
+  },
+  "0x85b931a32a0725be14285b66f1a22178c672d69b": {
+    "amount": "4112,575144",
+    "symbol": "DCASH"
+  },
+  "0x85efd1b524af686789b41deef697516b9868c40e": {
+    "amount": "7657,633223",
+    "symbol": "DCASH"
+  },
+  "0x8685ca271aceedea9f009a9ad467b8bc42c4619d": {
+    "amount": "1477,830769",
+    "symbol": "DCASH"
+  },
+  "0x87da28926affe6a701f8f1719950562536e752d0": {
+    "amount": "2916,516923",
+    "symbol": "DCASH"
+  },
+  "0x87dc552bb1f117d3ba8382b9e278b25c52bedf08": {
+    "amount": "2350,632405",
+    "symbol": "DCASH"
+  },
+  "0x87fc851e21d5512b0ae3f471496d5e8f072fb139": {
+    "amount": "7729,89",
+    "symbol": "DCASH"
+  },
+  "0x88cbe75048a7a06fcfe76ae3ec1fee766cba7a63": {
+    "amount": "9244,618539",
+    "symbol": "DCASH"
+  },
+  "0x8a106aae7689d71a6dba72cfcc4a38cb2686ee1c": {
+    "amount": "2322,97568",
+    "symbol": "DCASH"
+  },
+  "0x8ac21e8b935bd1f88354b7029cb924b250f0e3d3": {
+    "amount": "7666,795",
+    "symbol": "DCASH"
+  },
+  "0x8ac7937c5780d7720a21ebecad72320eeb9ecfdf": {
+    "amount": "6403,8",
+    "symbol": "DCASH"
+  },
+  "0x8be64b7d3261390bda4b908fe62a2586a04871f9": {
+    "amount": "1155,253872",
+    "symbol": "DCASH"
+  },
+  "0x8c2b226a9b9592824dc1c02830a2f7d2c0925690": {
+    "amount": "9357,92",
+    "symbol": "DCASH"
+  },
+  "0x8cae6ad619e4c1869f262e9dbc63f74ae22fed3f": {
+    "amount": "40331,75385",
+    "symbol": "DCASH"
+  },
+  "0x8ce505d0be850e990303f414706c84d758631528": {
+    "amount": "11298,7287",
+    "symbol": "DCASH"
+  },
+  "0x8da2d5be2ca20471ff0f92509efdc4b452a1a156": {
+    "amount": "8575,767692",
+    "symbol": "DCASH"
+  },
+  "0x8e0e0f70ca9afc69a59783f772b2a053824fee12": {
+    "amount": "4811,604391",
+    "symbol": "DCASH"
+  },
+  "0x8e2ba8228824508a515e4fdf0a6dc14296053591": {
+    "amount": "800,7860986",
+    "symbol": "DCASH"
+  },
+  "0x8fabc900041d2e25b6056a67b49a845d56b77317": {
+    "amount": "583,4780769",
+    "symbol": "DCASH"
+  },
+  "0x8ff4bf995fa01ce617414bdbab9378f91aacbbc0": {
+    "amount": "19364,32499",
+    "symbol": "DCASH"
+  },
+  "0x911a5515c280373257e414935cb34a5ee259e32b": {
+    "amount": "467,8689409",
+    "symbol": "DCASH"
+  },
+  "0x9182132106961d76d099219cc7986c34eca721d4": {
+    "amount": "19972,383",
+    "symbol": "DCASH"
+  },
+  "0x921ef8d321d59d213e357000461e13ed104fe8a0": {
+    "amount": "18263,35149",
+    "symbol": "DCASH"
+  },
+  "0x93c1c91e69507da7ac5ed0224c24d6259d5415e6": {
+    "amount": "2540,039739",
+    "symbol": "DCASH"
+  },
+  "0x945D225C4fC5c2651dB3BC4404c66742E0aE4937": {
+    "amount": "24757,37",
+    "symbol": "DCASH"
+  },
+  "0x9621b0a5d7ea64b67e0b7d37180699b0b64d4410": {
+    "amount": "7633,115385",
+    "symbol": "DCASH"
+  },
+  "0x97f451d67af5bfc3e0f90c6bc0e80103d3296e22": {
+    "amount": "57297,73307",
+    "symbol": "DCASH"
+  },
+  "0x983a324353950fc1542fe774b6e4b1fa8424c0cd": {
+    "amount": "212,9836923",
+    "symbol": "DCASH"
+  },
+  "0x99c9baaece1f0e6fe69e93c79f80e1c8c4d54668": {
+    "amount": "4638,546428",
+    "symbol": "DCASH"
+  },
+  "0x9a59d8b225c4fbec199a0dddcf51047b53ee5ba2": {
+    "amount": "10446,02143",
+    "symbol": "DCASH"
+  },
+  "0x9accae40845818a0447a565baa8f089ceca31f7c": {
+    "amount": "28257,75146",
+    "symbol": "DCASH"
+  },
+  "0x9b87a7687312e050bbb99f993f467a0cb2bc6340": {
+    "amount": "14982,51",
+    "symbol": "DCASH"
+  },
+  "0x9bb921892ab7e8c1a247e4be8d5a1c969da67f94": {
+    "amount": "119,73",
+    "symbol": "DCASH"
+  },
+  "0x9be948033e0430a0747bb38316f8d9173ba93676": {
+    "amount": "660,9167692",
+    "symbol": "DCASH"
+  },
+  "0x9cbc61a95f7f31b4c6263e5c39b532fe408a8bcd": {
+    "amount": "11253,06947",
+    "symbol": "DCASH"
+  },
+  "0x9d3c79591abca664c24ffa91afcee0e148132286": {
+    "amount": "7528,6",
+    "symbol": "DCASH"
+  },
+  "0x9d8d6d22966e332a58df70d6b9028bc830e97aad": {
+    "amount": "763,0338462",
+    "symbol": "DCASH"
+  },
+  "0x9deD071B5A7d3Db772a5168B9099460Bf80e0e3A": {
+    "amount": "4145,076923",
+    "symbol": "DCASH"
+  },
+  "0x9e4379686877a8d5df676fd99cc4bf9bb001f969": {
+    "amount": "7247,3685",
+    "symbol": "DCASH"
+  },
+  "0x9Fd0531c6eA5C142FdD2bb483aa0767380c32820": {
+    "amount": "36214,75",
+    "symbol": "DCASH"
+  },
+  "0x9fea352ad187630308cbbfffe2681b58cafe47f4": {
+    "amount": "28307,59543",
+    "symbol": "DCASH"
+  },
+  "0xa00dbcb7269cee885d2a832115c569a59effa424": {
+    "amount": "17420,7104",
+    "symbol": "DCASH"
+  },
+  "0xa0d47403984ffdc996a03517cf6763d2b4ef1630": {
+    "amount": "1697,390769",
+    "symbol": "DCASH"
+  },
+  "0xa186356984563c79e5e1532e289ea830ad003376": {
+    "amount": "1073,519034",
+    "symbol": "DCASH"
+  },
+  "0xa246310fa0d65fe0d76f21733607b63803d1685c": {
+    "amount": "7703,007817",
+    "symbol": "DCASH"
+  },
+  "0xa24ce1ee119ef6631a6ecabad321e6cb03baa016": {
+    "amount": "8644,988757",
+    "symbol": "DCASH"
+  },
+  "0xa38de0c07d11357d21708a2a856cfb1052cfc4fe": {
+    "amount": "979,4987828",
+    "symbol": "DCASH"
+  },
+  "0xa5838a1834dec705e4fe50b5be1566f8838a379f": {
+    "amount": "3009,156923",
+    "symbol": "DCASH"
+  },
+  "0xa61d3a451f996f089b1708a3cde192d8e40c0e79": {
+    "amount": "981,0323077",
+    "symbol": "DCASH"
+  },
+  "0xa65ac6e9f3dba61713f9730cb17b9bdd095ccf00": {
+    "amount": "1204,919434",
+    "symbol": "DCASH"
+  },
+  "0xa66768d2e61266d45b3208a1695b58c673db8fbc": {
+    "amount": "9330,006274",
+    "symbol": "DCASH"
+  },
+  "0xa7040f354fa610d4324a669cf51de82426ccc1b9": {
+    "amount": "37,74083594",
+    "symbol": "DCASH"
+  },
+  "0xa773318bedfff3274e417988d078d321b568f258": {
+    "amount": "11,55270118",
+    "symbol": "DCASH"
+  },
+  "0xa7ce9d56e5f6f15733dc6dc53bb407f0b8b79967": {
+    "amount": "17581,46171",
+    "symbol": "DCASH"
+  },
+  "0xa8c4970748e7c6d5526401a0838f4654f7ff249c": {
+    "amount": "4226,309315",
+    "symbol": "DCASH"
+  },
+  "0xa8ef56269bb56e8d991bd57a69a456ee06b04b1d": {
+    "amount": "1174,220385",
+    "symbol": "DCASH"
+  },
+  "0xa9ac52e134301c014b05d9345d51dcbcb1ce934f": {
+    "amount": "1737,021229",
+    "symbol": "DCASH"
+  },
+  "0xa9c70f77f548d4b846e68e375e260196d0da8a82": {
+    "amount": "6916,6",
+    "symbol": "DCASH"
+  },
+  "0xaaa2cf5dde06200c0df91bc31f58c573a6f319f4": {
+    "amount": "13638,694",
+    "symbol": "DCASH"
+  },
+  "0xab91fbb77fe7fce4557303eb5c4adee7d6e48a66": {
+    "amount": "1210,59",
+    "symbol": "DCASH"
+  },
+  "0xabb0462aa6415cd4090cd82b41c15d96d36bd6a1": {
+    "amount": "9018,923077",
+    "symbol": "DCASH"
+  },
+  "0xacdcbc323d5561c2d4e6c70aae5fd1e297a0d7cd": {
+    "amount": "9565,065",
+    "symbol": "DCASH"
+  },
+  "0xad5c79faf0045c01d7fa90a53247af4fc9077b7e": {
+    "amount": "8687,653788",
+    "symbol": "DCASH"
+  },
+  "0xad695f7a835e77a3dc3c0290ba460c65f28391bd": {
+    "amount": "7180,979656",
+    "symbol": "DCASH"
+  },
+  "0xada3227eac864faa6c1f2e148b36467b740b936b": {
+    "amount": "10580,1",
+    "symbol": "DCASH"
+  },
+  "0xade6419985b05981c01d91a14c392f5c63419cdd": {
+    "amount": "354,3705623",
+    "symbol": "DCASH"
+  },
+  "0xadfc57b0ece8dee0b72d8c6011ce6b23b7afee66": {
+    "amount": "1708,753846",
+    "symbol": "DCASH"
+  },
+  "0xae8b1c4eecacb0264d75dafcc0080544d44dce80": {
+    "amount": "1732,92597",
+    "symbol": "DCASH"
+  },
+  "0xaf8159583ec966d2de22793abdb4d2865a92186b": {
+    "amount": "7086,45",
+    "symbol": "DCASH"
+  },
+  "0xafaf4434759c170929c95419b6b3105051eabe06": {
+    "amount": "14722,19222",
+    "symbol": "DCASH"
+  },
+  "0xafed87d6202bdbb6404177fdd944716435bb7ddc": {
+    "amount": "2619,363499",
+    "symbol": "DCASH"
+  },
+  "0xb024bc5e8f53c8140dd3cd77ad4ca8ca68e60eb1": {
+    "amount": "10063,653",
+    "symbol": "DCASH"
+  },
+  "0xb0551b3cacb54a3bc6f3f158f104e97ec95bb392": {
+    "amount": "22784,89231",
+    "symbol": "DCASH"
+  },
+  "0xb08a97d3aaa8cc9a0828e3e3633614257d30eb10": {
+    "amount": "20166,57122",
+    "symbol": "DCASH"
+  },
+  "0xb15c8f8eb41420d3469b462bd6b5808d1f0775aa": {
+    "amount": "13711,39149",
+    "symbol": "DCASH"
+  },
+  "0xb1ef21da5ff4334c16a314fae657941381629dd7": {
+    "amount": "7289,467852",
+    "symbol": "DCASH"
+  },
+  "0xb2275982eb042e04cde240e6402c1ade04143785": {
+    "amount": "7716,577235",
+    "symbol": "DCASH"
+  },
+  "0xb262c94b33531eb40a60c9e920ea61f3b8f3e9af": {
+    "amount": "87965,82213",
+    "symbol": "DCASH"
+  },
+  "0xb275bc2facc7718b58c7d79ed68fba3a2a0d64f7": {
+    "amount": 6749,
+    "symbol": "DCASH"
+  },
+  "0xb2a5e135892b92d8554dab9adc5291ee65a9957b": {
+    "amount": "6403,8",
+    "symbol": "DCASH"
+  },
+  "0xb2be7cbb6d1d249d69f36038884e2d49a1087e58": {
+    "amount": "704,4827721",
+    "symbol": "DCASH"
+  },
+  "0xb34a138f0ced12c89b073a72111e97f230760f7c": {
+    "amount": "33672,40001",
+    "symbol": "DCASH"
+  },
+  "0xb44243fd9e7b14cabb0c29cd4c1ff55cc45d9961": {
+    "amount": "922,4640769",
+    "symbol": "DCASH"
+  },
+  "0xb4bd03a97f162ad76ccbd7e33eecb2307f4ec4cf": {
+    "amount": "1572,902308",
+    "symbol": "DCASH"
+  },
+  "0xb4e71c0eb3ee751c5932c3ee3524302774989569": {
+    "amount": "26792,51763",
+    "symbol": "DCASH"
+  },
+  "0xb59c22063afe92a90511aa8c7dcc2ef1e28fe6f6": {
+    "amount": "62470,12319",
+    "symbol": "DCASH"
+  },
+  "0xb6412c7c3011dc7be9126958e91b62ba0029ae4d": {
+    "amount": "12499,40301",
+    "symbol": "DCASH"
+  },
+  "0xb6bc45d77f2450b0a39edd0f17b5a4469329274f": {
+    "amount": "8861,538462",
+    "symbol": "DCASH"
+  },
+  "0xb6c16cb8527c506a86fe4cf5b0f2fbfb45c3bc2d": {
+    "amount": "8004,75",
+    "symbol": "DCASH"
+  },
+  "0xb768ef15119623ce3d20d137daea7bf754b283e0": {
+    "amount": "2094,161538",
+    "symbol": "DCASH"
+  },
+  "0xb80c1fe292d418133762c7f9944879a3272c8fc4": {
+    "amount": "854,9923077",
+    "symbol": "DCASH"
+  },
+  "0xb8fa7a2ed7e5c3ba2733d8ee6b76d5f0bbb15617": {
+    "amount": "837,6646154",
+    "symbol": "DCASH"
+  },
+  "0xb91adbb7e4b907a46c808995bf55135fc72c9bd1": {
+    "amount": "10614,8326",
+    "symbol": "DCASH"
+  },
+  "0xb92852a83f268d12e5c42c9fb761ad75a9d10f8a": {
+    "amount": "7522,727962",
+    "symbol": "DCASH"
+  },
+  "0xb93909003aa35f73598ac2ab7f5dc245d6e95e1a": {
+    "amount": "15189,89669",
+    "symbol": "DCASH"
+  },
+  "0xb9521ca207c6e196bff9950eedf0dd6e0b7853d2": {
+    "amount": "1368,769231",
+    "symbol": "DCASH"
+  },
+  "0xb95494a7d637d54388feb3e8ad3dee2999975e02": {
+    "amount": "8861,538462",
+    "symbol": "DCASH"
+  },
+  "0xb96718a86a57766001dff16b163a6e696a365f10": {
+    "amount": "39415,8042",
+    "symbol": "DCASH"
+  },
+  "0xba3e4b7c72d70113bfcd8d1c68614fe918542619": {
+    "amount": "10191,58615",
+    "symbol": "DCASH"
+  },
+  "0xba595530d335edbb224ef90563a72343bc8e9f4c": {
+    "amount": "38902,25308",
+    "symbol": "DCASH"
+  },
+  "0xbb33bc41be3fefe0f07ddad6ddd36f7083549958": {
+    "amount": "7080,2",
+    "symbol": "DCASH"
+  },
+  "0xbb9eb595c956927fbc0638414736f30cb030c4c6": {
+    "amount": "817,4495554",
+    "symbol": "DCASH"
+  },
+  "0xbc4fc94b3d9139763b36a909959e1fc17a60bf94": {
+    "amount": "7449,422837",
+    "symbol": "DCASH"
+  },
+  "0xbc67e6c2de6e9df08c59fc7ec16d2cc81449c3be": {
+    "amount": "801,7115385",
+    "symbol": "DCASH"
+  },
+  "0xbc9707a7d2869b3e538914df42636fb3a785a659": {
+    "amount": "31496,7",
+    "symbol": "DCASH"
+  },
+  "0xbcb3acf5e3c70142d0939fb94bdc6e664a8619af": {
+    "amount": "43306,94749",
+    "symbol": "DCASH"
+  },
+  "0xbcd1218f06727082ff522430619ac4780fc0855c": {
+    "amount": "21539,01423",
+    "symbol": "DCASH"
+  },
+  "0xbcf5c63f305ba69732f93ce9f80722b19a38af77": {
+    "amount": "1047,080769",
+    "symbol": "DCASH"
+  },
+  "0xbd2289e45ad6c7789dd13a0381ad63dfbb135371": {
+    "amount": "176,1298721",
+    "symbol": "DCASH"
+  },
+  "0xbe7f4733e80138b451b2d1a38bde65c79adfff75": {
+    "amount": "3841,286425",
+    "symbol": "DCASH"
+  },
+  "0xbf2002263de2a8a7b8d1524fee0ed58a2c1d1908": {
+    "amount": "7222,455135",
+    "symbol": "DCASH"
+  },
+  "0xc08f6fe5a5766958ffd6f3a5668b57346803465e": {
+    "amount": "2598,192308",
+    "symbol": "DCASH"
+  },
+  "0xc098b2a3aa256d2140208c3de6543aaef5cd3a94": {
+    "amount": "8047,312615",
+    "symbol": "DCASH"
+  },
+  "0xc09f45be2e48b0f74bc99d6cb0acbef5408ef5c0": {
+    "amount": "12653,77142",
+    "symbol": "DCASH"
+  },
+  "0xc245adc370fcc55a4fb87509dc5bd9dfe1a953a6": {
+    "amount": "9202,25",
+    "symbol": "DCASH"
+  },
+  "0xc2918d2972b5f3be33f4a768dfb35386973dc72c": {
+    "amount": "8969,473444",
+    "symbol": "DCASH"
+  },
+  "0xc2c66310c15f25cf6c219d35d0ce0c76dddac18e": {
+    "amount": "3771,371154",
+    "symbol": "DCASH"
+  },
+  "0xc347f46d45ece126744c7b3210b082475a557ea7": {
+    "amount": "9181,037484",
+    "symbol": "DCASH"
+  },
+  "0xc3cc68f80f791773af8f24d0310aadbc84d52ff9": {
+    "amount": "1220,617711",
+    "symbol": "DCASH"
+  },
+  "0xc42177d6819793ef8be4e5d2f9315a16c8cbbc75": {
+    "amount": "7681,96",
+    "symbol": "DCASH"
+  },
+  "0xc49eb3843d353ccdf45c798698818e89680fc2d3": {
+    "amount": "8875,204615",
+    "symbol": "DCASH"
+  },
+  "0xc4b41b3ec8956d513bd16d8bd756d81c8b480adf": {
+    "amount": "84524,58015",
+    "symbol": "DCASH"
+  },
+  "0xc57f338b6b7f2da95ed072b40a3e27a46bb8c105": {
+    "amount": "9766,382585",
+    "symbol": "DCASH"
+  },
+  "0xc6d84b7333ccf2db3362f5acd944da2dcc304d06": {
+    "amount": "24589,33938",
+    "symbol": "DCASH"
+  },
+  "0xc7014e77607681ceb42a09da5cce0f5dc8be1323": {
+    "amount": "9298,992808",
+    "symbol": "DCASH"
+  },
+  "0xc71aa0648a4cf14582e06d109de27c5b3b321d19": {
+    "amount": "4653,692308",
+    "symbol": "DCASH"
+  },
+  "0xc765cc3d0d04739921db5bef233f75e35c315450": {
+    "amount": "3721,743385",
+    "symbol": "DCASH"
+  },
+  "0xc780f711765b928817ec666bf8d23a0f6235da16": {
+    "amount": "103408,0538",
+    "symbol": "DCASH"
+  },
+  "0xc90915ad58de9dcf6eeec8d1efb9a4f595815b7a": {
+    "amount": "8796,6",
+    "symbol": "DCASH"
+  },
+  "0xc909811239fb38b94372d77067957cbe417d943b": {
+    "amount": "5989,772308",
+    "symbol": "DCASH"
+  },
+  "0xc97889243fa6a206d30688d50f1c846d88a0f5fc": {
+    "amount": "3281,708825",
+    "symbol": "DCASH"
+  },
+  "0xc99bbe5a2080c3395c23aa13b4013673e5b09cfc": {
+    "amount": "12731,14231",
+    "symbol": "DCASH"
+  },
+  "0xCA04F5E17Cf8A986827333e6D8CD9B59aC4d9c7B": {
+    "amount": "238,05",
+    "symbol": "DCASH"
+  },
+  "0xca8aff83ed14ddff1b0b7b573e67ac10bc9c65cd": {
+    "amount": "553,3595332",
+    "symbol": "DCASH"
+  },
+  "0xca997ca3c9688bf7b10ca1d81664f17f86a43441": {
+    "amount": "815,7738462",
+    "symbol": "DCASH"
+  },
+  "0xcabb490e43042326782ffdc07619c582fcb0f149": {
+    "amount": "16309,28751",
+    "symbol": "DCASH"
+  },
+  "0xcb138049229d4d89183f86d102cbe1f3947c2024": {
+    "amount": "8214,13",
+    "symbol": "DCASH"
+  },
+  "0xcbe6e4544ac9790b096478c4cc54f1a67269bcfc": {
+    "amount": "4399,322413",
+    "symbol": "DCASH"
+  },
+  "0xcc2102635c2181cfb2d00b4968372ab29ac3585a": {
+    "amount": "6972,776043",
+    "symbol": "DCASH"
+  },
+  "0xcc49d24432a1a7509371767ffc98df582eca55ac": {
+    "amount": "7817,023846",
+    "symbol": "DCASH"
+  },
+  "0xcd86f9083d84d15aca5968cf47707ea13870d716": {
+    "amount": "1095,015385",
+    "symbol": "DCASH"
+  },
+  "0xce2d451b77c439d01b598a716e928edf3d735547": {
+    "amount": "165091,3204",
+    "symbol": "DCASH"
+  },
+  "0xce3fcff08ee69133712389744cc1c805eb6ab45d": {
+    "amount": "3553,277159",
+    "symbol": "DCASH"
+  },
+  "0xcf4ac8789af3712830904d8975ecb3edddcc0057": {
+    "amount": "14296,11057",
+    "symbol": "DCASH"
+  },
+  "0xd03c4f46580e588fc3a5407c84b8a85b8a79ba52": {
+    "amount": "16444,53846",
+    "symbol": "DCASH"
+  },
+  "0xd040454b19a48db7350bab840d5f686068261923": {
+    "amount": "1394,815492",
+    "symbol": "DCASH"
+  },
+  "0xd23728eb726967bd5bf09b686b9ed7e04b7c8f1d": {
+    "amount": "13396,10147",
+    "symbol": "DCASH"
+  },
+  "0xd2fb5346c8d4f7dc3f678e72bd0d328a147267b6": {
+    "amount": "4430,769231",
+    "symbol": "DCASH"
+  },
+  "0xD32d166932D94Ed4631E4B5D1F6bA7332e47C890": {
+    "amount": "17,1",
+    "symbol": "DCASH"
+  },
+  "0xd35b9e49040b9b6d1770b4897d4c02976a083ce2": {
+    "amount": "7955,59",
+    "symbol": "DCASH"
+  },
+  "0xd36eada550fe49b789d27eb13688c710ddf8e1e7": {
+    "amount": "14678,65874",
+    "symbol": "DCASH"
+  },
+  "0xd392d20b3450770dc8714bfc612e5864d310d79f": {
+    "amount": "997,6308607",
+    "symbol": "DCASH"
+  },
+  "0xd549bb85f41bac8668620ede5ef1c5337ca00061": {
+    "amount": "7061,8",
+    "symbol": "DCASH"
+  },
+  "0xd551234ae421e3bcba99a0da6d736074f22192ff": {
+    "amount": "18092,09177",
+    "symbol": "DCASH"
+  },
+  "0xd5fa9dbdb2b445ae7d2ff75ca13360d104ea8319": {
+    "amount": 7023,
+    "symbol": "DCASH"
+  },
+  "0xd623e8074e0a909b4270734dde9528d3b3121301": {
+    "amount": "252,3638462",
+    "symbol": "DCASH"
+  },
+  "0xd78ceefb0b8358ce75da732159a8a38a18b9b5ca": {
+    "amount": "34147,99827",
+    "symbol": "DCASH"
+  },
+  "0xd7c242e19d5e7f8898dc142dbc6afd87ac66362f": {
+    "amount": "35300,51811",
+    "symbol": "DCASH"
+  },
+  "0xd901e0d78e2356927cf551feb8cfbcf1a361afc2": {
+    "amount": "2523,638462",
+    "symbol": "DCASH"
+  },
+  "0xd963e53bbf0770243435ecd4db9e9e1c402597cb": {
+    "amount": "2931,761538",
+    "symbol": "DCASH"
+  },
+  "0xd9c0d054339dfc948f35dc16196e0656af38c90e": {
+    "amount": "9412,396463",
+    "symbol": "DCASH"
+  },
+  "0xd9f9764da8bc095484c842cde624ebdbbd5273f9": {
+    "amount": "1829,512639",
+    "symbol": "DCASH"
+  },
+  "0xdb8e145d9c2f9177f72f534caf11e02dd765e3e1": {
+    "amount": "37114,27181",
+    "symbol": "DCASH"
+  },
+  "0xdbd699927f1715b0e9ac3e269074c92e713684d9": {
+    "amount": "1578,721961",
+    "symbol": "DCASH"
+  },
+  "0xdc0a9656e513d2a9dbf3fdc6adf20cb5fbf32a13": {
+    "amount": "5429,516874",
+    "symbol": "DCASH"
+  },
+  "0xdcf3606234b2db4870c17a607170180bf4ad4c04": {
+    "amount": "9767,135384",
+    "symbol": "DCASH"
+  },
+  "0xdd16f14aa9226e7ecc456f8b52427f92eb7b84ee": {
+    "amount": "1939,867593",
+    "symbol": "DCASH"
+  },
+  "0xddfbb2bcbd2eb247f8b6ebe416d847915e8d1a75": {
+    "amount": "2147,538462",
+    "symbol": "DCASH"
+  },
+  "0xdfd5293d8e347dfe59e90efd55b2956a1343963d": {
+    "amount": "4145,078155",
+    "symbol": "DCASH"
+  },
+  "0xe015ad8fd7dc60b6e5e447de35102cea192f2064": {
+    "amount": "9267,73594",
+    "symbol": "DCASH"
+  },
+  "0xe1a131b41999f2ff54c633191100269482790beb": {
+    "amount": "8963,129743",
+    "symbol": "DCASH"
+  },
+  "0xe1aa47fa7579040e12e15aa87fe768c74304f455": {
+    "amount": "10391,5035",
+    "symbol": "DCASH"
+  },
+  "0xe1bcf54ce51ea31d00d4610072b99c7c022b90a5": {
+    "amount": "923,3348589",
+    "symbol": "DCASH"
+  },
+  "0xe2ad14f95a07652c8113719334c5e244343cd7bd": {
+    "amount": "1617,966344",
+    "symbol": "DCASH"
+  },
+  "0xe2ad599b1457b45e31cf71df08978a1fa0e918a6": {
+    "amount": "6983,6",
+    "symbol": "DCASH"
+  },
+  "0xe2d1b0f0d391d1b838067be2da1ca6ad39a61eeb": {
+    "amount": "4642,622594",
+    "symbol": "DCASH"
+  },
+  "0xe2eb471fcfa4e0a9f6a1b12ce349129ea21f74b1": {
+    "amount": "20,45555158",
+    "symbol": "DCASH"
+  },
+  "0xe35d1cf27bfc56545c7ae91f0dfcf208613e6b7d": {
+    "amount": "13878,49782",
+    "symbol": "DCASH"
+  },
+  "0xe38e867f1d0b4fef8ea2060002c9378354bab254": {
+    "amount": "8529,876923",
+    "symbol": "DCASH"
+  },
+  "0xe3c3911fba0709d0d501b87f93bd54200570a058": {
+    "amount": "361,5597799",
+    "symbol": "DCASH"
+  },
+  "0xe3e924bd5a5932b4374e610b4d8e92a7bbb50a7b": {
+    "amount": "1880,091692",
+    "symbol": "DCASH"
+  },
+  "0xe47f1102e36d1fd433b1efdad6e7d1a704890737": {
+    "amount": "7231,082575",
+    "symbol": "DCASH"
+  },
+  "0xe542c5837cd588f87f0c1e66244b60f6753fbfa1": {
+    "amount": "845,8798265",
+    "symbol": "DCASH"
+  },
+  "0xe58a1d555b3e1dcef140f5d95c124ee3c9fc813a": {
+    "amount": "8574,034615",
+    "symbol": "DCASH"
+  },
+  "0xe597f89fd1f0668c2c029b466b58e0a7a7a76057": {
+    "amount": "6433,215385",
+    "symbol": "DCASH"
+  },
+  "0xe67429989e73a8535abac455bd5f2f290ea96f51": {
+    "amount": "4233,415385",
+    "symbol": "DCASH"
+  },
+  "0xe7e548d457a525f993aa31e9dd95086ceb3ae71c": {
+    "amount": "4236,52",
+    "symbol": "DCASH"
+  },
+  "0xe7e74d6040e81caae64f904a4887717dd5ff2652": {
+    "amount": "9438,437435",
+    "symbol": "DCASH"
+  },
+  "0xe88f8e58f7bee6930b1d77c07dbe44c4a75ef597": {
+    "amount": "2535,882425",
+    "symbol": "DCASH"
+  },
+  "0xe8a1028ee16c0d3cdb711f14487ca945d760b4f1": {
+    "amount": "24010,12",
+    "symbol": "DCASH"
+  },
+  "0xe95dae7aedaf5bbcbb81c2fda200bc9168d7e928": {
+    "amount": "2243,684506",
+    "symbol": "DCASH"
+  },
+  "0xe9da5dae8e021fccd86792b711a08fc7f37a3985": {
+    "amount": "21075,43231",
+    "symbol": "DCASH"
+  },
+  "0xe9dfdbf85e52cda2e4144f68716aba28e9e6efb4": {
+    "amount": "985,1353846",
+    "symbol": "DCASH"
+  },
+  "0xea4fdc035f5cf0920c7e709612c876a4d81805e6": {
+    "amount": "4653,692308",
+    "symbol": "DCASH"
+  },
+  "0xea9a9b669909f356e7f5b4c5e0a19c6473bef35e": {
+    "amount": "977,4009148",
+    "symbol": "DCASH"
+  },
+  "0xeb3d90ca176ef5b5c897a6636f65b198d329ff64": {
+    "amount": "1676,230769",
+    "symbol": "DCASH"
+  },
+  "0xecca9e0d5fffcf7f7a4c41c516b1b9663bf0781a": {
+    "amount": "7076,8",
+    "symbol": "DCASH"
+  },
+  "0xeefb23d67097f916404d939d34424a5bb8821890": {
+    "amount": "1971,273462",
+    "symbol": "DCASH"
+  },
+  "0xef22832ab44bd9650ba29a1708281f7fed643fca": {
+    "amount": "713,825862",
+    "symbol": "DCASH"
+  },
+  "0xefb6191c722fb32a8ef9a07d214eaf4652f1f779": {
+    "amount": "7040,4",
+    "symbol": "DCASH"
+  },
+  "0xf0de79743169f138a1c8a8e72a0f61482ccd7ca1": {
+    "amount": "1259,95",
+    "symbol": "DCASH"
+  },
+  "0xf1366122e71a5dfacc1827ef3c2b6e2e4bd03e41": {
+    "amount": "9236,43",
+    "symbol": "DCASH"
+  },
+  "0xf16072f93ac926a26613814952e9cbc709d807d1": {
+    "amount": "4444,652308",
+    "symbol": "DCASH"
+  },
+  "0xf19c3267b547fa611bac017b4b1951f35f651270": {
+    "amount": "7305,158",
+    "symbol": "DCASH"
+  },
+  "0xf1e407c481f2bf23ad480bf3e26236c7b2e99791": {
+    "amount": "23404,18",
+    "symbol": "DCASH"
+  },
+  "0xf241435f75df21083eb2902d2130c428c1fdbc28": {
+    "amount": "2685,953846",
+    "symbol": "DCASH"
+  },
+  "0xf2a4dcdc94e63972b3448f5d28c24074889bafa4": {
+    "amount": "349,0269231",
+    "symbol": "DCASH"
+  },
+  "0xf2be0dd004bce37aedee20c400dba9a47ea0159e": {
+    "amount": "1913,61876",
+    "symbol": "DCASH"
+  },
+  "0xf2ec860ab7e4697d52378bdadd73c3f54daec935": {
+    "amount": "3217,079615",
+    "symbol": "DCASH"
+  },
+  "0xf35f6a4e42f16720b65b263c80d3dee66ecc1e66": {
+    "amount": "8850,25",
+    "symbol": "DCASH"
+  },
+  "0xf371054b21905fd31c6c531318bd291413b88fe7": {
+    "amount": "819515,2723",
+    "symbol": "DCASH"
+  },
+  "0xf4921cfb65326320f466e97ebdf188f82f47e9bb": {
+    "amount": "13636,15385",
+    "symbol": "DCASH"
+  },
+  "0xf4aab86197804e1ec897d4f6bc440e2f30ccce6c": {
+    "amount": "5488,089578",
+    "symbol": "DCASH"
+  },
+  "0xf51981dcc0d7c5338ee4c3393efb7121e4f2a0d0": {
+    "amount": "4064,053846",
+    "symbol": "DCASH"
+  },
+  "0xf61d3958b5da692700ce9bc5967a837f0af68d88": {
+    "amount": "4674,826923",
+    "symbol": "DCASH"
+  },
+  "0xf6d0c9148841360316467e4518bc20f224c81b3c": {
+    "amount": 7074,
+    "symbol": "DCASH"
+  },
+  "0xf6d972dda6d38958f2188681e5edb542c5eeca47": {
+    "amount": "5453,6544",
+    "symbol": "DCASH"
+  },
+  "0xf77c6cd08c243b5b71af77663f04739111bf64de": {
+    "amount": "1810,258154",
+    "symbol": "DCASH"
+  },
+  "0xf79906e0ce5f684f61969b46559d647ef372f4ea": {
+    "amount": "4494,363928",
+    "symbol": "DCASH"
+  },
+  "0xf80a4c698235fe012f323495515d5882ba2877d5": {
+    "amount": "7167,727",
+    "symbol": "DCASH"
+  },
+  "0xf812f128f328fec3d530dfe6e422462649bdf5bb": {
+    "amount": "7197,2",
+    "symbol": "DCASH"
+  },
+  "0xf82339142c72697707044c46af1c54f4c6bdf39b": {
+    "amount": "4692,285538",
+    "symbol": "DCASH"
+  },
+  "0xf8c69b06b66a6188e2482b178f9c9d591c612d4f": {
+    "amount": "891,3018881",
+    "symbol": "DCASH"
+  },
+  "0xfa26948396e36aca58b8cb018894233fb8b4cce3": {
+    "amount": "4189,85693",
+    "symbol": "DCASH"
+  },
+  "0xfa8762cb72c1dac58ecb5b082ca4c81c1dc0a219": {
+    "amount": "10735,83708",
+    "symbol": "DCASH"
+  },
+  "0xfa8f5a6cf5a29068ccad562b3c1be7d0279eab86": {
+    "amount": "9367,824405",
+    "symbol": "DCASH"
+  },
+  "0xfaf5e1911b7476d7186f1506c67d4a518e82cb23": {
+    "amount": "10546,2729",
+    "symbol": "DCASH"
+  },
+  "0xfaf9a6ee890758070ab17837ab5ce95b0c758c1e": {
+    "amount": "6983,6",
+    "symbol": "DCASH"
+  },
+  "0xfb38f56b03d886b58e9c83609ff3c5fd458a0319": {
+    "amount": "2595,613894",
+    "symbol": "DCASH"
+  },
+  "0xfb76cd00bcfbb34f6f94d1e9cec0ddc43356d89a": {
+    "amount": "9028,163077",
+    "symbol": "DCASH"
+  },
+  "0xfbf86edefe23395800d9be735d8de019a6898a4c": {
+    "amount": "10403,21501",
+    "symbol": "DCASH"
+  },
+  "0xfc884cbea7169a826060af2fea8756226c11bd7f": {
+    "amount": "265,8603593",
+    "symbol": "DCASH"
+  },
+  "0xfce806873b447773c989d3bae0d2b63e4f543cdc": {
+    "amount": "102422,584",
+    "symbol": "DCASH"
+  },
+  "0xfceac18a3ada352ec449ff39079a588c6e89cb85": {
+    "amount": "4607,155385",
+    "symbol": "DCASH"
+  },
+  "0xff1afb0c55fd4928f79b23dc7b29aaabbd90776a": {
+    "amount": "442,6269231",
+    "symbol": "DCASH"
+  },
+  "0xff528fdad68dca7c796edca0d949a4ca8aff885c": {
+    "amount": "7712,819231",
     "symbol": "DCASH"
   }
 }
