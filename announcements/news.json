@@ -1,16 +1,16 @@
 [
   {
-    "logo": "https://diabolo.io/en/images/diabolo-gradient.gif",
+    "logo": "https://raw.githubusercontent.com/Diabolo-io/diabolo-data/main/announcements/fund.png",
     "title": "NEWS",
-    "subTitle": "Diabolo v1",
-    "date": "1638576000",
-    "link": "https://twitter.com/DiaboloTrading/status/1466349579444670473"
+    "subTitle": "$1.5M fundraising",
+    "date": "1641207600",
+    "link": "https://twitter.com/DiaboloTrading/status/1477967481088188420"
   },
   {
-    "logo": "https://diabolo.io/en/images/diabolo-gradient.gif",
+    "logo": "https://raw.githubusercontent.com/Diabolo-io/diabolo-data/main/announcements/beta.png",
     "title": "NEWS",
-    "subTitle": "Twitter challenge",
-    "date": "1637625600",
-    "link": "https://twitter.com/DiaboloTrading/status/1463110758674350092"
+    "subTitle": "The beta is now closed",
+    "date": "1641294000",
+    "link": "https://twitter.com/DiaboloTrading/status/1478325873359179777"
   }
 ]
