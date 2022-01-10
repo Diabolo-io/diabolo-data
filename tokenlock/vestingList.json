@@ -255,6 +255,10 @@
     "amount": 34886,
     "symbol": "DCASH"
   },
+  "0x1e8d25b6ff1bf3eb4692e2876cde05b7d1617bd4": {
+    "amount": 230,
+    "symbol": "DCASH"
+  },
   "0x1eda822e58069152e0340ce697abcda86a29c324": {
     "amount": 1547,
     "symbol": "DCASH"
@@ -692,7 +696,7 @@
     "symbol": "DCASH"
   },
   "0x53d57d023213ea14ef6bd2553097f469e955f54a": {
-    "amount": 708,
+    "amount": 10862,
     "symbol": "DCASH"
   },
   "0x550a7ad0d2caf66d92e1a740b2d07d31dded51b3": {
@@ -1341,6 +1345,10 @@
   },
   "0xacdcbc323d5561c2d4e6c70aae5fd1e297a0d7cd": {
     "amount": 9565,
+    "symbol": "DCASH"
+  },
+  "0xad2a9112ec74b0a97b8d9048dd8078c6d1122ac8": {
+    "amount": 185,
     "symbol": "DCASH"
   },
   "0xad5c79faf0045c01d7fa90a53247af4fc9077b7e": {
