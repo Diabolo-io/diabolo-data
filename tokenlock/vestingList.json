@@ -1,4 +1,8 @@
 {
+  "0x5d28e69b304c2088a37cc33b53e1d351466cbcaf": {
+    "amount": 100,
+    "symbol": "rinkDCASH"
+  },
   "0x003d684effac0de1faea31b36813b37440eb0f7f": {
     "amount": 35,
     "symbol": "DCASH"
