@@ -1,12 +1,4 @@
 {
-  "0x19cc89bf8f4f67e9255b574e65fadaa8e34a7667": {
-    "amount": 100,
-    "symbol": "rinkDCASH"
-  },
-  "0x5d28e69b304c2088a37cc33b53e1d351466cbcaf": {
-    "amount": 100,
-    "symbol": "rinkDCASH"
-  },
   "0x003d684effac0de1faea31b36813b37440eb0f7f": {
     "amount": 35,
     "symbol": "DCASH"
@@ -69,6 +61,10 @@
   },
   "0x053fd1fda46794159c969a75e2a0f81731da9002": {
     "amount": 2285,
+    "symbol": "DCASH"
+  },
+  "0x057596b8fb90b46d5e5594f48546f58525deaccc": {
+    "amount": 80000,
     "symbol": "DCASH"
   },
   "0x05936ac4b12175fd0e601637b5d04e4f7ca8986f": {
@@ -201,6 +197,10 @@
   },
   "0x0c82b6e05c56d57389012cb50833d8e7cd6c62f6": {
     "amount": 7106,
+    "symbol": "DCASH"
+  },
+  "0x0ccc43223f4acd087e6c993a190fec03c2d879cc": {
+    "amount": 0,
     "symbol": "DCASH"
   },
   "0x0d7400daf74ce49c30020440035eec1512b42542": {
@@ -379,12 +379,20 @@
     "amount": 356,
     "symbol": "DCASH"
   },
+  "0x19feeaa6cdf250b4d6d44679209bfdc3279b12d4": {
+    "amount": 1250000,
+    "symbol": "DCASH"
+  },
   "0x1a30b2f0560fbb56578276348a07e81378d4b833": {
     "amount": 39,
     "symbol": "DCASH"
   },
   "0x1a38ddd62d0361d5856bae9ff435a8cff34648c6": {
     "amount": 419,
+    "symbol": "DCASH"
+  },
+  "0x1b5cb4198b8865a56ccbaa759490e4df7ed8ef9f": {
+    "amount": 400000,
     "symbol": "DCASH"
   },
   "0x1b764bd85eebbbd36239ac59f860181ebc211c4b": {
@@ -577,6 +585,10 @@
   },
   "0x2a090e37f89328c66fbe44870983cf02d3f1ff01": {
     "amount": 669,
+    "symbol": "DCASH"
+  },
+  "0x2a2dfdee1cd11990fd390d960e517e5bf591632c": {
+    "amount": 400000,
     "symbol": "DCASH"
   },
   "0x2a627cc0dc656b924616b6cd6ddcf86ea9d31fc9": {
@@ -905,6 +917,10 @@
   },
   "0x42955b23dee4811fba39258b7be57f6b66efd654": {
     "amount": 746,
+    "symbol": "DCASH"
+  },
+  "0x432cd779b966cb8df6b98c1a6afec825fb91f124": {
+    "amount": 400000,
     "symbol": "DCASH"
   },
   "0x436cfc5f7c03fbf559115332ab8f26b67e34801b": {
@@ -1603,6 +1619,10 @@
     "amount": 810,
     "symbol": "DCASH"
   },
+  "0x75e89d5979e4f6fba9f97c104c2f0afb3f1dcb88": {
+    "amount": 666667,
+    "symbol": "DCASH"
+  },
   "0x766ffabd502fc592ad3cd5915ce49ae9164e9e08": {
     "amount": 148,
     "symbol": "DCASH"
@@ -2060,7 +2080,7 @@
     "symbol": "DCASH"
   },
   "0x9be948033e0430a0747bb38316f8d9173ba93676": {
-    "amount": 661,
+    "amount": 400661,
     "symbol": "DCASH"
   },
   "0x9c1008f6295ce51f5723467ccccd342ea3ad03e7": {
@@ -2135,8 +2155,16 @@
     "amount": 979,
     "symbol": "DCASH"
   },
+  "0xa497cbbab194d6bf017bcc2e01d961c2e3ec6dae": {
+    "amount": 600000,
+    "symbol": "DCASH"
+  },
   "0xa50ae8fac80d94e13ed634af12b7bd59b935fedd": {
     "amount": 1099,
+    "symbol": "DCASH"
+  },
+  "0xa50f89381301decb11f1918586f98c5f2077e3ca": {
+    "amount": 1666667,
     "symbol": "DCASH"
   },
   "0xa5838a1834dec705e4fe50b5be1566f8838a379f": {
@@ -2161,6 +2189,10 @@
   },
   "0xa66768d2e61266d45b3208a1695b58c673db8fbc": {
     "amount": 9330,
+    "symbol": "DCASH"
+  },
+  "0xa6fc200f1e5f95d4d00e733b0a32cd86bcf9f8d4": {
+    "amount": 80000,
     "symbol": "DCASH"
   },
   "0xa7040f354fa610d4324a669cf51de82426ccc1b9": {
@@ -3313,6 +3345,10 @@
   },
   "0xf61d3958b5da692700ce9bc5967a837f0af68d88": {
     "amount": 4675,
+    "symbol": "DCASH"
+  },
+  "0xf69ce0ac855a278cdc933531e12cedea3c7d639d": {
+    "amount": 0,
     "symbol": "DCASH"
   },
   "0xf69d8c5447fc72fa18eb3c8ec23de4bb55fb579d": {
